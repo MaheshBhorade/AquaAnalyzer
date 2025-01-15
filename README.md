@@ -38,4 +38,3 @@ Accurate Fish Detection and Species Identification:
 oxygen levels.
 - When such behavior is detected, the system generates an alert on SMS to notify the user, enabling timely intervention to address oxygen deficiencies
   
-[Uploading Project Report.pdf…]()
